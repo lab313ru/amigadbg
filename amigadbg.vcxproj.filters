@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="ida">
+      <UniqueIdentifier>{d2e72e27-9dac-4ead-a237-f40edbfdc6c6}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="ida\ida_debug.cpp">
+      <Filter>ida</Filter>
+    </ClCompile>
+    <ClCompile Include="ida\ida_plugin.cpp">
+      <Filter>ida</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="ida\ida_debmod.h">
+      <Filter>ida</Filter>
+    </ClInclude>
+    <ClInclude Include="ida\ida_plugin.h">
+      <Filter>ida</Filter>
+    </ClInclude>
+    <ClInclude Include="debug\debug.h">
+      <Filter>ida</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

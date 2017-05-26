@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26403.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "amigadbg", "amigadbg.vcxproj", "{310670F5-6109-42EB-9784-60CE42D0D02D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug64_68|x86 = Debug64_68|x86
+		Debug64_695|x86 = Debug64_695|x86
+		Debug86_68|x86 = Debug86_68|x86
+		Debug86_695|x86 = Debug86_695|x86
+		Release64_68|x86 = Release64_68|x86
+		Release64_695|x86 = Release64_695|x86
+		Release86_68|x86 = Release86_68|x86
+		Release86_695|x86 = Release86_695|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{310670F5-6109-42EB-9784-60CE42D0D02D}.Debug64_68|x86.ActiveCfg = Debug64_68|Win32
+		{310670F5-6109-42EB-9784-60CE42D0D02D}.Debug64_68|x86.Build.0 = Debug64_68|Win32
+		{310670F5-6109-42EB-9784-60CE42D0D02D}.Debug64_695|x86.ActiveCfg = Debug64_695|Win32
+		{310670F5-6109-42EB-9784-60CE42D0D02D}.Debug64_695|x86.Build.0 = Debug64_695|Win32
+		{310670F5-6109-42EB-9784-60CE42D0D02D}.Debug86_68|x86.ActiveCfg = Debug86_68|Win32
+		{310670F5-6109-42EB-9784-60CE42D0D02D}.Debug86_68|x86.Build.0 = Debug86_68|Win32
+		{310670F5-6109-42EB-9784-60CE42D0D02D}.Debug86_695|x86.ActiveCfg = Debug86_695|Win32
+		{310670F5-6109-42EB-9784-60CE42D0D02D}.Debug86_695|x86.Build.0 = Debug86_695|Win32
+		{310670F5-6109-42EB-9784-60CE42D0D02D}.Release64_68|x86.ActiveCfg = Release64_68|Win32
+		{310670F5-6109-42EB-9784-60CE42D0D02D}.Release64_68|x86.Build.0 = Release64_68|Win32
+		{310670F5-6109-42EB-9784-60CE42D0D02D}.Release64_695|x86.ActiveCfg = Release64_695|Win32
+		{310670F5-6109-42EB-9784-60CE42D0D02D}.Release64_695|x86.Build.0 = Release64_695|Win32
+		{310670F5-6109-42EB-9784-60CE42D0D02D}.Release86_68|x86.ActiveCfg = Release86_68|Win32
+		{310670F5-6109-42EB-9784-60CE42D0D02D}.Release86_68|x86.Build.0 = Release86_68|Win32
+		{310670F5-6109-42EB-9784-60CE42D0D02D}.Release86_695|x86.ActiveCfg = Release86_695|Win32
+		{310670F5-6109-42EB-9784-60CE42D0D02D}.Release86_695|x86.Build.0 = Release86_695|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

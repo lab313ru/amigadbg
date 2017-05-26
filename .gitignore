@@ -1,0 +1,5 @@
+*.log
+*.obj
+*.idb
+*.pdb
+*.tlog
